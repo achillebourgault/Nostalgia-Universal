@@ -1,0 +1,4 @@
+name: nostalgia-universal
+version: '${project.version}'
+main: com.nostalgia.PluginLoader
+api-version: 1.19
